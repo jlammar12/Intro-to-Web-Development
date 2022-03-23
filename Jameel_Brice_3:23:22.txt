@@ -1,0 +1,16 @@
+Javascript  Array = Java's 
+Array + List (LinkedList + ArrayList)
+
+
+
+Nuts.push(3434)
+nums[nums.length] = 3434
+Nuts.sort(function(x,y){return x*2-y;})
+showall(nums)
+----------------------
+Objects = Java's
+HashMap/HashTable
+=associative
+=extension of an Array
+
+Object - {"about":2342}
