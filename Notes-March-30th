@@ -1,0 +1,26 @@
+let ele = document .getElementBy('id'); to delete.parentNote.removeChild(ele)
+
+ele.style.color''red'
+ele.style.backgroundColor='white';
+
+let newlele = document.createElement('p');
+newele.innerHTML =. 'any HTML codes"
+
+let dv = document.createElement(div')
+dv.id= "meaning fluid";
+dv.style.cssText = "clor:red;background-collor:white;font-size:17px";
+dv.innerHTML= "whatever"
+
+
+childNodes
+parentNodes
+previousSibling
+nextSibling
+
+events: 20-30 events
+OS:10000000 events
+
+onclick
+oppress
+onmouseup
+onblur
