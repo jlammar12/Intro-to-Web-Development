@@ -1,0 +1,24 @@
+tomcat server
+https://www.apche.org
+download tomcat
+(tar).gz for Mac
+unzip
+go inside bin
+MacBook find location of idk
+k-14.01jdk
+use text editor
+add line:
+startup.sh Mac
+startup.bh
+java_home = /library/Java
+export  $JAVA_HOME
+
+Window: set JAVA_HOME=C:\
+Program
+Files\java\jdk1.8.454
+startup.bat/sh
+tomcat hosts web applications
+
+localhost:8080/examples/websocket/chat.html
+another browser
+send message
