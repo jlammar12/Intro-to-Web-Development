@@ -1,0 +1,64 @@
+Configure Tomcat 
+1) Download Tomcat from ache.org
+2) Java JDK
+3) Find the path of JAVA JDK
+4) go to tomcat/bin/
+5) set "JAVA_HOME= C:\....\...\...
+6) MAC user: sh ./startup .sh  to launch tomcat
+	window users double click 
+
+-----------------------------------------------
+
+Supported by  comma 
+Within Object , always prefix family name 
+naming convention 
+
+var exchange ={
+
+mode'';
+id: -1,
+
+act'';
+ready:true,
+message:null
+receiver: new XML
+init: function(){
+
+exchange.act
+exchange.mode
+exchange.reeady
+
+
+}
+function className(w,h){
+
+this.w = w;
+this.h = h;
+var localonece = 1;
+this.area = function(){
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+}
