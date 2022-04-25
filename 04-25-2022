@@ -1,0 +1,23 @@
+<script>
+String.prototype.removespaces
+=function(){
+if(this== bull)
+
+
+
+}
+
+String.prototype.reverse=function()
+{
+
+let result = ""
+if(this==null)return null;
+for(let i=
+
+}
+
+array.sort()
+array.soty(function(a,b){
+
+return a<b? 1:-1
+}
